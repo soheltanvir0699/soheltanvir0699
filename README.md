@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sohel Rana</h1>
 <h3 align="center">Passionate iOS & Backend Developer from Bangladesh</h3>
 <p align="center">
-<img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 <img src="https://komarev.com/ghpvc/?username=soheltanvir0699&label=Profile%20views&color=0e75b6&style=flat" alt="soheltanvir0699" />
 
