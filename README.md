@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sohel Rana</h1>
-<h3 align="center">Passionate iOS & Backend Developer from Bangladesh</h3>
+<h3 align="center">Revolutionizing waiting problem of human being</h3>
 <p align="center">
 <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
@@ -19,13 +19,10 @@
   </a> 
 </p>
 
-- 🔭 Currently working on: [Zaxroid](https://github.com/Mk7Lab/Zaxroid-IOS)
+- 🔭 Currently working on: [OLL.E](https://github.com/Mk7Lab/Zaxroid-Android)
 - 🌱 Learning: Embedded programming, Business, Finance
-- 👨‍💻 Projects: [My Portfolio](https://soheltanvir0699.pythonanywhere.com/)
-- 📝 Articles: [My Blog](https://soheltanvir0699.pythonanywhere.com/)
 - 💬 Let's talk about: Swift programming, iOS app development, and data visualization.
 - 📫 Reach out to me at: **soheltanvir0699@gmail.com**
-- 📄 My experiences: [Resume](https://soheltanvir0699.pythonanywhere.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
