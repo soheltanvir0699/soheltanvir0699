@@ -22,7 +22,7 @@
 - 🔭 Currently working on: [OLL.E](https://olle.tech/)
 - 🌱 Learning: Embedded programming, Business, Finance
 - 💬 Let's talk about: Swift programming, iOS app development, and data visualization.
-- 📫 Reach out to me at: **soheltanvir0699@gmail.com**
+- 📫 Reach out to me at: **sohel@olle.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
