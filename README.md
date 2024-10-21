@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sohel Rana</h1>
 <h3 align="center">Revolutionizing waiting problem of human being with OLL.E</h3>
 <p align="center">
-<img align="center" alt="coding" width="400" src="https://i.ibb.co.com/DMV0LvN/olle-logo.png">
+<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 <img src="https://komarev.com/ghpvc/?username=soheltanvir0699&label=Profile%20views&color=0e75b6&style=flat" alt="soheltanvir0699" />
 
