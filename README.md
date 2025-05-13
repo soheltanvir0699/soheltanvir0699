@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soheltanvir0699&label=Profile%20views&color=0e75b6&style=flat" alt="soheltanvir0699" />
+  <img src="https://komarev.com/ghpvc/?username=soheltanvir0699&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -25,26 +25,32 @@
 - Tech Entrepreneurship
 
 ### 📫 Reach Me At:
-- **Email**: [sohel@olle.tech](mailto:sohel@olle.tech)
+- 📧 [sohel@olle.tech](mailto:sohel@olle.tech)
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/sohel-tanvir-185605193" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://twitter.com/soheltanvir0699" target="_blank"><img src="https://img.shields.io/twitter/follow/soheltanvir0699?logo=twitter&style=for-the-badge" alt="Twitter"/></a>
-  <a href="https://fb.com/soheltanvir0699" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/></a>
-  <a href="https://www.youtube.com/@_sohel_rana" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40"/></a>
+  <a href="https://linkedin.com/in/sohel-tanvir-185605193" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/soheltanvir0699" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/soheltanvir0699?logo=twitter&style=for-the-badge" alt="Twitter"/>
+  </a>
+  <a href="https://fb.com/soheltanvir0699" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+  <a href="https://www.youtube.com/@_sohel_rana" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools:
+### 🛠️ Languages & Tools
 
-<!-- Tools grid kept intact for visual representation -->
 <p align="left">
-  <!-- Include some key examples only. The rest can be linked out in a separate page if preferred. -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -53,7 +59,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <!-- Add more as needed -->
 </p>
 
 ---
@@ -78,20 +83,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheltanvir0699&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soheltanvir0699&theme=github-dark" alt="GitHub Streak" />
-</p>
-
 ---
 
-### 📊 Recent GitHub Activity
+### 🐍 Contribution Snake (Optional Setup)
 
-<!-- Optionally use github-readme-activity-graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=soheltanvir0699&theme=github-compact" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/soheltanvir0699/soheltanvir0699/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
+
+> ⚙️ To enable this, follow the setup in [Platane/snk](https://github.com/Platane/snk#readme) and push the generated SVG to your repo.
 
 ---
 
 > "Let’s build the future, one idea at a time."
-
