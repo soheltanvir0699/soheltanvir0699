@@ -85,10 +85,4 @@
 
 ---
 
-### 🐍 Contribution Snake (Optional Setup)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/soheltanvir0699/soheltanvir0699/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
 > "Let’s build the future, one idea at a time."
