@@ -25,7 +25,7 @@
 - Tech Entrepreneurship
 
 ### 📫 Reach Me At:
-- 📧 [sohel@olle.tech](mailto:sohel@olle.tech)
+- 📧 [Email me](mailto:soheltanvir0699@gmail.com)
 
 ---
 
