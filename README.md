@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sohel Rana</h1>
-<h3 align="center">Innovating the human experience with <a href="https://olle.tech/">OLL.E</a></h3>
-
 <!-- =======================
    Sohel Rana — GitHub Profile README
    Repo: soheltanvir0699/soheltanvir0699
@@ -8,7 +5,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Sohel%20Rana&fontAlign=50&fontAlignY=35&desc=Innovating%20the%20human%20experience%20with%20OLL.E&descAlign=50&descAlignY=60&color=0:0e75b6,100:6a00ff"
+    src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Sohel%20Rana&fontAlign=50&fontAlignY=35&desc=Innovating%20the%20human%20experience%20with%20OLL.E&descAlign=50&descAlignY=60&color=0:0e75b6,100:6a00ff&fontColor=ffffff"
     alt="Sohel Rana banner"
   />
 </p>
@@ -30,7 +27,7 @@
   <a href="https://twitter.com/soheltanvir0699">
     <img src="https://img.shields.io/badge/Twitter-@soheltanvir0699-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.youtube.com/@_sohel_rana">
+  <a href="https://www.youtube.com/@official_sr_dev">
     <img src="https://img.shields.io/badge/YouTube-@_sohel_rana-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
@@ -39,9 +36,9 @@
 
 ## About
 
-- Co-Founder & Builder at **OLL.E** — an “AI watchman” for time-sensitive work.
-- Currently focused on **iOS (Swift)**, **backend systems**, and **embedded prototyping**.
-- Interests: product + engineering, monitoring/automation, data visualization, startups.
+- Building **OLL.E** — an AI “watchman” for time-sensitive work.
+- Focus: **Swift/iOS**, backend systems, and **embedded prototyping**.
+- Interests: monitoring/automation, data visualization, product + engineering.
 
 ## What I’m working on
 
@@ -52,24 +49,29 @@
 - Embedded programming
 - Business strategy
 - Financial systems
+- AI & Deep Learning
 
 ## Ask me about
 
 - Swift & iOS development
+- Android, Back-end, Design & C Programming
 - Data visualization
-- Tech entrepreneurship
+- Tech entrepreneurship, Leadership
 
 ## Reach me
 
 - 📧 soheltanvir0699@gmail.com  
-- 📧 (work) sohel@olle.tech
+- 📧 (work) ollesohel@gmail.com
 
 ---
 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=swift,python,js,ts,react,arduino,java,html,css,fastapi,django,postgres,redis,docker&perline=7" alt="Skills" />
+  <img
+    src="https://skillicons.dev/icons?i=swift,python,js,ts,react,arduino,java,html,css,fastapi,django,postgres,redis,docker&perline=7"
+    alt="Skills"
+  />
 </p>
 
 ---
@@ -78,7 +80,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=soheltanvir0699&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api?username=soheltanvir0699&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true"
     alt="GitHub stats"
     height="165"
   />
@@ -106,35 +108,78 @@
 
 ---
 
-## Featured Repositories
+## GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soheltanvir0699&repo=SoundPluseAnimation&theme=github_dark&hide_border=true" alt="SoundPluseAnimation" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soheltanvir0699&repo=PhoneShop&theme=github_dark&hide_border=true" alt="PhoneShop" />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soheltanvir0699&theme=github_dark"
+    alt="Profile details"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soheltanvir0699&repo=ChatApp&theme=github_dark&hide_border=true" alt="ChatApp" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soheltanvir0699&repo=SQLite3Project&theme=github_dark&hide_border=true" alt="SQLite3Project" />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=soheltanvir0699&theme=github_dark"
+    height="165"
+    alt="Stats"
+  />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soheltanvir0699&theme=github_dark&utcOffset=6"
+    height="165"
+    alt="Productive time (UTC+6)"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soheltanvir0699&repo=IOS-Google-Cast&theme=github_dark&hide_border=true" alt="IOS-Google-Cast" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soheltanvir0699&repo=Feeka-iOS-2&theme=github_dark&hide_border=true" alt="Feeka-iOS-2" />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soheltanvir0699&theme=github_dark"
+    height="165"
+    alt="Repos per language"
+  />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soheltanvir0699&theme=github_dark"
+    height="165"
+    alt="Most commit language"
+  />
 </p>
 
 ---
 
-## GitHub Trophies
+## Featured Repositories
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=soheltanvir0699&theme=algolia&row=1&no-frame=true"
-    alt="GitHub trophies"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=soheltanvir0699&repo=SoundPluseAnimation&theme=github_dark&hide_border=true"
+    alt="SoundPluseAnimation"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=soheltanvir0699&repo=PhoneShop&theme=github_dark&hide_border=true"
+    alt="PhoneShop"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=soheltanvir0699&repo=ChatApp&theme=github_dark&hide_border=true"
+    alt="ChatApp"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=soheltanvir0699&repo=SQLite3Project&theme=github_dark&hide_border=true"
+    alt="SQLite3Project"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=soheltanvir0699&repo=IOS-Google-Cast&theme=github_dark&hide_border=true"
+    alt="IOS-Google-Cast"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=soheltanvir0699&repo=Feeka-iOS-2&theme=github_dark&hide_border=true"
+    alt="Feeka-iOS-2"
   />
 </p>
 
 ---
 
 > “Let’s build the future, one idea at a time.”
-
