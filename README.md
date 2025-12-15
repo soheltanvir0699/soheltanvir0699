@@ -84,11 +84,10 @@
     alt="GitHub stats"
     height="165"
   />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=soheltanvir0699&theme=github-dark-blue&hide_border=true"
-    alt="GitHub streak"
-    height="165"
-  />
+  <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=soheltanvir0699&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</a>
+
 </p>
 
 <p align="center">
