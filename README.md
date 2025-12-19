@@ -84,14 +84,26 @@
     alt="GitHub stats"
     height="165"
   />
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com/?user=soheltanvir0699&theme=github-dark-blue&hide_border=true&type=svg&disable_animations=true&v=1"
+      alt="GitHub Streak"
+      height="165"
+    />
+  </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/soheltanvir0699/soheltanvir0699/output/github-contribution-grid-snake-dark.svg?v=1" />
-  <img alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/soheltanvir0699/soheltanvir0699/output/github-contribution-grid-snake.svg?v=1" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/soheltanvir0699/soheltanvir0699/output/github-contribution-grid-snake-dark.svg?v=1" />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/soheltanvir0699/soheltanvir0699/output/github-contribution-grid-snake.svg?v=1"
+      style="max-width: 100%;"
+    />
+  </picture>
+</p>
 
 <p align="center">
   <img
