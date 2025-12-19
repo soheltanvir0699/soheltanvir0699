@@ -84,7 +84,10 @@
     alt="GitHub stats"
     height="165"
   />
-  [![trophy](https://github-profile-trophy.vercel.app/?username=soheltanvir0699&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soheltanvir0699/soheltanvir0699/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/soheltanvir0699/soheltanvir0699/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 </p>
