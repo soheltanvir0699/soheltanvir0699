@@ -84,12 +84,7 @@
     alt="GitHub stats"
     height="165"
   />
-  <a href="https://git.io/streak-stats">
-  <img
-    src="https://streak-stats.demolab.com/?user=soheltanvir0699&theme=github-dark-blue&hide_border=true&type=svg&disable_animations=true&v=1"
-    alt="GitHub Streak"
-  />
-</a>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=soheltanvir0699&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 </p>
