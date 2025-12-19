@@ -84,10 +84,13 @@
     alt="GitHub stats"
     height="165"
   />
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soheltanvir0699/soheltanvir0699/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/soheltanvir0699/soheltanvir0699/output/github-contribution-grid-snake.svg">
+ <picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/soheltanvir0699/soheltanvir0699/output/github-contribution-grid-snake-dark.svg?v=1" />
+  <img alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/soheltanvir0699/soheltanvir0699/output/github-contribution-grid-snake.svg?v=1" />
 </picture>
+
 
 
 </p>
