@@ -73,17 +73,10 @@
 
 ## GitHub Stats (Live)
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=soheltanvir0699" />
-</a>
-</p>
+![](https://raw.githubusercontent.com/soheltanvir0699/soheltanvir0699/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/soheltanvir0699/soheltanvir0699/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/soheltanvir0699/soheltanvir0699/main/profile-summary-card-output/github_dark/3-stats.svg)
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soheltanvir0699&layout=compact&langs_count=8&card_width=320" />
-</a>
-</p>
 
 
 <p align="center">
