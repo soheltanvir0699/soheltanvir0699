@@ -74,17 +74,15 @@
 ## GitHub Stats (Live)
 
 <p align="center">
-  <img
-    src="https://sohel-github-readme-stats.vercel.app/api?username=soheltanvir0699&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true"
-    height="165"
-  />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=soheltanvir0699" />
+</a>
 </p>
 
 <p align="center">
-  <img
-    src="https://sohel-github-readme-stats.vercel.app/api/top-langs/?username=soheltanvir0699&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
-    height="165"
-  />
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soheltanvir0699&layout=compact&langs_count=8&card_width=320" />
+</a>
 </p>
 
 
