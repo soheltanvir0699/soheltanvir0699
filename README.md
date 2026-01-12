@@ -73,12 +73,6 @@
 
 ## GitHub Stats (Live)
 
-![](https://raw.githubusercontent.com/soheltanvir0699/soheltanvir0699/main/profile-summary-card-output/github_dark/0-profile-details.svg)
-![](https://raw.githubusercontent.com/soheltanvir0699/soheltanvir0699/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/soheltanvir0699/soheltanvir0699/main/profile-summary-card-output/github_dark/3-stats.svg)
-
-
-
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=soheltanvir0699&theme=github-compact&hide_border=true"
