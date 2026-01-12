@@ -75,19 +75,21 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=soheltanvir0699&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=soheltanvir0699&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true&cache_seconds=3600"
     alt="GitHub stats"
     height="165"
   />
 </p>
 
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheltanvir0699&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheltanvir0699&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=3600"
     alt="Top languages"
     height="165"
   />
 </p>
+
 
 <p align="center">
   <img
