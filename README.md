@@ -128,6 +128,5 @@
     alt="Most commit language"
   />
 </p>
----
 
 > “Let’s build the future, one idea at a time.”
