@@ -128,44 +128,6 @@
     alt="Most commit language"
   />
 </p>
-
----
-
-## Featured Repositories
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=soheltanvir0699&repo=SoundPluseAnimation&theme=github_dark&hide_border=true"
-    alt="SoundPluseAnimation"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=soheltanvir0699&repo=PhoneShop&theme=github_dark&hide_border=true"
-    alt="PhoneShop"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=soheltanvir0699&repo=ChatApp&theme=github_dark&hide_border=true"
-    alt="ChatApp"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=soheltanvir0699&repo=SQLite3Project&theme=github_dark&hide_border=true"
-    alt="SQLite3Project"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=soheltanvir0699&repo=IOS-Google-Cast&theme=github_dark&hide_border=true"
-    alt="IOS-Google-Cast"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=soheltanvir0699&repo=Feeka-iOS-2&theme=github_dark&hide_border=true"
-    alt="Feeka-iOS-2"
-  />
-</p>
-
 ---
 
 > “Let’s build the future, one idea at a time.”
