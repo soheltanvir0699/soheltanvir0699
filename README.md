@@ -56,7 +56,7 @@
 ## Reach me
 
 - 📧 soheltanvir0699@gmail.com  
-- 📧 (work) ollesohel@gmail.com
+- 📧 (work) sohel@olle.tech
 
 ---
 
