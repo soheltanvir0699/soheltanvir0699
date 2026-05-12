@@ -50,7 +50,7 @@
 
 - Swift & iOS development
 - Android, Back-end, Design & C Programming, Python
-- Data visualization
+- Data visualization, Deep Learning
 - Agentic Edge AI: Autonomous Intelligence on the Edge
 - Tech entrepreneurship, Leadership
 
