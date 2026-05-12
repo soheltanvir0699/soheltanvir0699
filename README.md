@@ -49,8 +49,9 @@
 ## Ask me about
 
 - Swift & iOS development
-- Android, Back-end, Design & C Programming
+- Android, Back-end, Design & C Programming, Python
 - Data visualization
+- Agentic Edge AI: Autonomous Intelligence on the Edge
 - Tech entrepreneurship, Leadership
 
 ## Reach me
