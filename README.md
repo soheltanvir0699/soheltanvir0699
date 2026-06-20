@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Sohel%20Rana&fontAlign=50&fontAlignY=42&desc=🔥%20Innovating%20the%20human%20experience%20with%20OLL.E&descAlign=50&descAlignY=62&color=0:0d0d0d,50:ff6200,100:ffcc00&fontColor=ffffff&descSize=16&fontSize=52&fontAlignY=40&stroke=ff6200&strokeWidth=1" alt="Sohel Rana" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sohel%20Rana&fontAlign=50&fontAlignY=38&desc=%F0%9F%94%A5%20Innovating%20the%20human%20experience%20with%20OLL.E&descAlign=50&descAlignY=58&color=0:0d0d0d,40:7a1e00,70:ff6200,100:ffcc00&fontColor=ffffff&descColor=ffddaa&descSize=17&fontSize=55&animation=fadeIn" alt="Sohel Rana" />
 </p>
 
 <p align="center">
@@ -34,14 +34,16 @@
 
 ## 🔥 About Me
 
-```python
-sohel = {
-    "building"   : "OLL.E — an AI watchman for time-sensitive work",
-    "focus"      : ["Swift / iOS", "Backend Systems", "Embedded Prototyping"],
-    "interests"  : ["Monitoring & Automation", "Data Visualization", "Agentic Edge AI"],
-    "location"   : "Bangladesh 🇧🇩",
-    "email"      : "sohel@olle.tech",
-    "mission"    : "Innovating the human experience 🔥",
+```json
+{
+  "name"      : "Sohel Rana",
+  "building"  : "OLL.E — an AI watchman for time-sensitive work",
+  "focus"     : ["Swift / iOS", "Backend Systems", "Embedded Prototyping"],
+  "interests" : ["Monitoring & Automation", "Data Visualization", "Agentic Edge AI"],
+  "learning"  : ["Embedded Programming", "Business Strategy", "Financial Systems", "AI & Deep Learning"],
+  "location"  : "Bangladesh 🇧🇩",
+  "email"     : "sohel@olle.tech",
+  "mission"   : "Innovating the human experience 🔥"
 }
 ```
 
@@ -72,10 +74,10 @@ sohel = {
   <img src="https://skillicons.dev/icons?i=swift,python,js,ts,react,arduino,java,html,css,fastapi,django,postgres,redis,docker&perline=7&theme=dark" alt="Skills" />
 </p>
 
-**Languages:** Swift · Python · TypeScript · JavaScript · Java · C · Kotlin
+**Languages:** Swift · Python · TypeScript · JavaScript · Java · C  
 **Frameworks:** React · FastAPI · Django  
 **Infra:** PostgreSQL · Redis · Docker · Arduino  
-**Domains:** iOS · Deep Learning · Agentic AI · Embedded Systems · Adroid
+**Domains:** iOS · Deep Learning · Agentic AI · Embedded Systems
 
 <img src="https://i.imgur.com/waxVImv.png" alt="fire divider" width="100%" />
 
