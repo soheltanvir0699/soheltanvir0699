@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sohel%20Rana&fontAlign=50&fontAlignY=40&desc=Innovating%20the%20human%20experience%20with%20OLL.E&descAlign=50&descAlignY=62&color=0:ff6eb4,20:ff9de2,40:ffb347,60:ff6b9d,80:c77dff,100:48cae4&fontColor=ffffff&descColor=fff0f5&descSize=17&fontSize=55&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sohel%20Rana&fontAlign=50&fontAlignY=40&desc=Innovating%20the%20human%20experience%20with%20OLL.E&descAlign=50&descAlignY=62&color=0:ff6eb4,20:ffb896,40:ffe066,60:c77dff,80:ff9de2,100:48cae4&fontColor=ffffff&descColor=fff0f5&descSize=17&fontSize=55&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=FF6EB4&center=true&vCenter=true&width=600&lines=Building+OLL.E+%E2%80%94+the+AI+Watchman+%F0%9F%A4%96;Swift+%26+iOS+Developer;Agentic+Edge+AI+on+the+Frontier;Autonomous+Intelligence%2C+Built+for+the+Edge;Let%27s+build+the+future%2C+one+idea+at+a+time.)](https://git.io/typing-svg)
 
@@ -16,9 +16,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:ff6eb4,25:ffb347,50:c77dff,75:ff9de2,100:48cae4&section=header" width="100%" />
-
-<br/>
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/soheltanvir0699)
 
 ## 🤖 About Me
 
@@ -32,9 +30,7 @@
 | 📧 **Email** | sohel@olle.tech |
 | 🧠 **Mission** | Innovating the human experience |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:ff6eb4,25:ffb347,50:c77dff,75:ff9de2,100:48cae4&section=header" width="100%" />
-
-<br/>
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/soheltanvir0699)
 
 ## 🚀 What I'm Building
 
@@ -53,9 +49,7 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:ff6eb4,25:ffb347,50:c77dff,75:ff9de2,100:48cae4&section=header" width="100%" />
-
-<br/>
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/soheltanvir0699)
 
 ## 🛠 Tech Stack
 
@@ -74,9 +68,7 @@
 | **Infra** | PostgreSQL · Redis · Docker · Arduino |
 | **Domains** | iOS · Android · Deep Learning · Agentic AI · Embedded Systems |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:ff6eb4,25:ffb347,50:c77dff,75:ff9de2,100:48cae4&section=header" width="100%" />
-
-<br/>
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/soheltanvir0699)
 
 ## 🧠 Currently Learning
 
@@ -87,9 +79,7 @@
 | Financial Systems | DeFi, algorithmic trading logic |
 | AI & Deep Learning | Autonomous agents, on-device models |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:ff6eb4,25:ffb347,50:c77dff,75:ff9de2,100:48cae4&section=header" width="100%" />
-
-<br/>
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/soheltanvir0699)
 
 ## 💬 Ask Me About
 
@@ -99,13 +89,15 @@
 - 📊 **Data Visualization** & Deep Learning
 - 🚀 **Tech Entrepreneurship** & Leadership
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:ff6eb4,25:ffb347,50:c77dff,75:ff9de2,100:48cae4&section=header" width="100%" />
-
-<br/>
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/soheltanvir0699)
 
 ## 📊 GitHub Stats
 
 <div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soheltanvir0699&theme=radical)](https://github.com/soheltanvir0699)
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=soheltanvir0699&theme=github-compact&hide_border=true&bg_color=1a0a2e&color=ff9de2&line=c77dff&point=ffb347" width="100%" />
 
@@ -118,23 +110,21 @@
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soheltanvir0699&theme=github_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soheltanvir0699&theme=radical" width="100%" />
 
 <br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=soheltanvir0699&theme=github_dark" height="165" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soheltanvir0699&theme=github_dark&utcOffset=6" height="165" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=soheltanvir0699&theme=radical" height="165" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soheltanvir0699&theme=radical&utcOffset=6" height="165" />
 
 <br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soheltanvir0699&theme=github_dark" height="165" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soheltanvir0699&theme=github_dark" height="165" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soheltanvir0699&theme=radical" height="165" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soheltanvir0699&theme=radical" height="165" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:ff6eb4,25:ffb347,50:c77dff,75:ff9de2,100:48cae4&section=header" width="100%" />
-
-<br/>
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/soheltanvir0699)
 
 ## 📬 Reach Me
 
@@ -145,6 +135,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:ff6eb4,20:ffb347,50:c77dff,80:ff9de2,100:48cae4&section=footer&text=%F0%9F%A4%96%20Let%27s%20build%20the%20future%2C%20one%20idea%20at%20a%20time.&fontSize=17&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:ff6eb4,20:ffb896,50:c77dff,80:ff9de2,100:48cae4&section=footer&text=%F0%9F%A4%96%20Let%27s%20build%20the%20future%2C%20one%20idea%20at%20a%20time.&fontSize=17&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
 </div>
